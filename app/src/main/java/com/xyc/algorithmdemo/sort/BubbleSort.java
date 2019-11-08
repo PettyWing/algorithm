@@ -2,7 +2,9 @@ package com.xyc.algorithmdemo.sort;
 
 /**
  * 冒泡排序
- * O(n2)
+ * 时间复杂度O(n2)
+ * 空间复杂度O(1)
+ * 稳定排序
  * Created by xieyusheng on 2019/11/7.
  */
 

@@ -2,7 +2,9 @@ package com.xyc.algorithmdemo.sort;
 
 /**
  * 快速排序
- * O（nlogn）
+ * 时间复杂度O(nlogn)
+ * 空间复杂度O(logn)
+ * 不稳定排序
  * 设定一个基准值（一般是第一个元素），比他大的都放在右边，比他小的都放在左边，然后把最后的坐标值和基准值位置交换
  * Created by xieyusheng on 2019/11/7.
  */
