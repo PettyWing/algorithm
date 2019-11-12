@@ -1,4 +1,4 @@
-package com.xyc.algorithmdemo.heap;
+package com.xyc.algorithmdemo.binary;
 
 /**
  * 二叉堆

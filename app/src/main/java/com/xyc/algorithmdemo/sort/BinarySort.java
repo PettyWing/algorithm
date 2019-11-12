@@ -1,6 +1,6 @@
 package com.xyc.algorithmdemo.sort;
 
-import com.xyc.algorithmdemo.heap.BinaryHeap;
+import com.xyc.algorithmdemo.binary.BinaryHeap;
 
 /**
  * 堆排序
